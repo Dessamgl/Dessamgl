@@ -3,7 +3,7 @@
 # Andressa Gaspar
 
 ## Olá pessoal 👋
-Sou trainee front-end developer, estou estudando e me aperfeiçoando com ReactJS :computer:
+Sou trainee front-end developer, estou estudando e me aperfeiçoando com ReactJS, CSS Grid Layout e Flexbox :computer:
 
  💼  &nbsp; Estou trabalhando na **SoftDesign**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
