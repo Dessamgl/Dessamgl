@@ -2,10 +2,8 @@
 
 Sou front-end developer, estou estudando e me aperfeiçoando em ReactJS :computer:
 
- 💼  &nbsp; Estou trabalhando na **SoftDesign**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ 💼  &nbsp; Estou trabalhando na **Motorista PX**
  <br/> :computer: &nbsp; Minha stack: ReactJS, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, livros e seriados. Meu usuário no Xbox: Dessamgl
  <br/> :email: &nbsp; Entre em contato comigo:
  <br/> 
  <br/> 
